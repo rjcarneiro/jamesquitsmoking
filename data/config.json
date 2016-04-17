@@ -1,6 +1,6 @@
 {
     "title": "William James voltou a fumar?",
     "start": "January 01, 2016 04:00:00",
-    "smokes": false,
-    "end": null
+    "smokes": true,
+    "end": "March 19, 2016 04:00:00"
 }
